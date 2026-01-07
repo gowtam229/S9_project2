@@ -1,0 +1,8 @@
+*{
+    background-color: brown;
+}
+
+.head{
+    display: flex;
+    gap: 20px;
+}
